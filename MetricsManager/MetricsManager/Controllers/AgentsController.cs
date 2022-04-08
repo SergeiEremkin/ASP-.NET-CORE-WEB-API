@@ -11,28 +11,28 @@ namespace MetricsManager.Controllers
         [HttpPost("register")]
         public IActionResult RegisterAgent([FromBody] AgentInfo agentInfo)
 
-    {
-    return Ok();
-    }
+        {
+            return Ok();
+        }
 
-    [HttpPut("enable/{agentId}")]
-    public IActionResult EnableAgentById([FromRoute] int agentId)
-    {
-        return Ok();
-    }
-    [HttpPut("disable/{agentId}")]
-    public IActionResult DisableAgentById([FromRoute] int agentId)
-    {
-        return Ok();
-    }
+        [HttpPut("enable/{agentId}")]
+        public IActionResult EnableAgentById([FromRoute] int agentId)
+        {
+            return Ok();
+        }
+        [HttpPut("disable/{agentId}")]
+        public IActionResult DisableAgentById([FromRoute] int agentId)
+        {
+            return Ok();
+        }
     }
 
     public class AgentInfo
 
     {
-    public int AgentId { get; }
-    public Uri AgentAddress { get; }
+        public int AgentId { get; }
+        public Uri AgentAddress { get; }
     }
 
-    }
+}
 

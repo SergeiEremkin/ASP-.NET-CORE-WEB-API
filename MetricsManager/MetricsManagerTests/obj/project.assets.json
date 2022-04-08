@@ -5997,11 +5997,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Пользователь\\source\\repos\\MetricsManager\\MetricsManagerTests\\MetricsManagerTests.csproj",
+      "projectUniqueName": "C:\\Users\\Пользователь\\source\\repos\\ASP-.NET-CORE-WEB-API\\MetricsManager\\MetricsManagerTests\\MetricsManagerTests.csproj",
       "projectName": "MetricsManagerTests",
-      "projectPath": "C:\\Users\\Пользователь\\source\\repos\\MetricsManager\\MetricsManagerTests\\MetricsManagerTests.csproj",
+      "projectPath": "C:\\Users\\Пользователь\\source\\repos\\ASP-.NET-CORE-WEB-API\\MetricsManager\\MetricsManagerTests\\MetricsManagerTests.csproj",
       "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Пользователь\\source\\repos\\MetricsManager\\MetricsManagerTests\\obj\\",
+      "outputPath": "C:\\Users\\Пользователь\\source\\repos\\ASP-.NET-CORE-WEB-API\\MetricsManager\\MetricsManagerTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6018,8 +6018,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Пользователь\\source\\repos\\MetricsManager\\MetricsManager\\MetricsManager.csproj": {
-              "projectPath": "C:\\Users\\Пользователь\\source\\repos\\MetricsManager\\MetricsManager\\MetricsManager.csproj"
+            "C:\\Users\\Пользователь\\source\\repos\\ASP-.NET-CORE-WEB-API\\MetricsManager\\MetricsManager\\MetricsManager.csproj": {
+              "projectPath": "C:\\Users\\Пользователь\\source\\repos\\ASP-.NET-CORE-WEB-API\\MetricsManager\\MetricsManager\\MetricsManager.csproj"
             }
           }
         }

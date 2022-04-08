@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vQ5Y+gOrmAh9pipXHE1DcJC7He8b4xOmPoJ5JOyWFdtBQS8ubhufeJqO1jANGPpFw2VB+SKRT/E1BxGtIktL2g==",
+  "dgSpecHash": "ClgsAQANCjpsUlydx9LRVuGf6ee8vQRq9dnTWP9a4VRzsgD6jeO4WJOawT3QauGE0sRVUBiby8bGHJW8mdUHWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Пользователь\\source\\repos\\MetricsManager\\MetricsManagerTests\\MetricsManagerTests.csproj",
+  "projectFilePath": "C:\\Users\\Пользователь\\source\\repos\\ASP-.NET-CORE-WEB-API\\MetricsManager\\MetricsManagerTests\\MetricsManagerTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Пользователь\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\Пользователь\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",

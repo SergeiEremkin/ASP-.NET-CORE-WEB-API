@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l3FAZFdROWspW66xLLmBDLKh6SqaK3LH32XJernL8L+AXbSmzwvYW6Rdv5FEBX549fFfi9ptcSuUbBVvEd6tow==",
+  "dgSpecHash": "D9jdLJwJ1Zyfmzyyuho+bSGFQcRHs3HE2rRvePdq8G8Uvk56JSzZhHuixiEryr9hni9AZWUjq/csqDqj7em1dQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Пользователь\\source\\repos\\MetricsManager\\MetricsManager\\MetricsManager.csproj",
+  "projectFilePath": "C:\\Users\\Пользователь\\source\\repos\\ASP-.NET-CORE-WEB-API\\MetricsManager\\MetricsManager\\MetricsManager.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
